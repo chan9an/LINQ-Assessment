@@ -1,0 +1,16 @@
+/run/media/csr/New Volume/asp_cg/Day19/LINQ_Assignment_BoilerPlateCode/LINQ_Assignment_BoilerPlateCode/bin/Debug/net10.0/LINQ_Assignment_BoilerPlateCode
+/run/media/csr/New Volume/asp_cg/Day19/LINQ_Assignment_BoilerPlateCode/LINQ_Assignment_BoilerPlateCode/bin/Debug/net10.0/LINQ_Assignment_BoilerPlateCode.dll.config
+/run/media/csr/New Volume/asp_cg/Day19/LINQ_Assignment_BoilerPlateCode/LINQ_Assignment_BoilerPlateCode/bin/Debug/net10.0/LINQ_Assignment_BoilerPlateCode.deps.json
+/run/media/csr/New Volume/asp_cg/Day19/LINQ_Assignment_BoilerPlateCode/LINQ_Assignment_BoilerPlateCode/bin/Debug/net10.0/LINQ_Assignment_BoilerPlateCode.runtimeconfig.json
+/run/media/csr/New Volume/asp_cg/Day19/LINQ_Assignment_BoilerPlateCode/LINQ_Assignment_BoilerPlateCode/bin/Debug/net10.0/LINQ_Assignment_BoilerPlateCode.dll
+/run/media/csr/New Volume/asp_cg/Day19/LINQ_Assignment_BoilerPlateCode/LINQ_Assignment_BoilerPlateCode/bin/Debug/net10.0/LINQ_Assignment_BoilerPlateCode.pdb
+/run/media/csr/New Volume/asp_cg/Day19/LINQ_Assignment_BoilerPlateCode/LINQ_Assignment_BoilerPlateCode/obj/Debug/net10.0/LINQ_Assignment_BoilerPlateCode.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/csr/New Volume/asp_cg/Day19/LINQ_Assignment_BoilerPlateCode/LINQ_Assignment_BoilerPlateCode/obj/Debug/net10.0/LINQ_Assignment_BoilerPlateCode.AssemblyInfoInputs.cache
+/run/media/csr/New Volume/asp_cg/Day19/LINQ_Assignment_BoilerPlateCode/LINQ_Assignment_BoilerPlateCode/obj/Debug/net10.0/LINQ_Assignment_BoilerPlateCode.AssemblyInfo.cs
+/run/media/csr/New Volume/asp_cg/Day19/LINQ_Assignment_BoilerPlateCode/LINQ_Assignment_BoilerPlateCode/obj/Debug/net10.0/LINQ_Assignment_BoilerPlateCode.csproj.CoreCompileInputs.cache
+/run/media/csr/New Volume/asp_cg/Day19/LINQ_Assignment_BoilerPlateCode/LINQ_Assignment_BoilerPlateCode/obj/Debug/net10.0/LINQ_Assignment_BoilerPlateCode.sourcelink.json
+/run/media/csr/New Volume/asp_cg/Day19/LINQ_Assignment_BoilerPlateCode/LINQ_Assignment_BoilerPlateCode/obj/Debug/net10.0/LINQ_Assignment_BoilerPlateCode.dll
+/run/media/csr/New Volume/asp_cg/Day19/LINQ_Assignment_BoilerPlateCode/LINQ_Assignment_BoilerPlateCode/obj/Debug/net10.0/refint/LINQ_Assignment_BoilerPlateCode.dll
+/run/media/csr/New Volume/asp_cg/Day19/LINQ_Assignment_BoilerPlateCode/LINQ_Assignment_BoilerPlateCode/obj/Debug/net10.0/LINQ_Assignment_BoilerPlateCode.pdb
+/run/media/csr/New Volume/asp_cg/Day19/LINQ_Assignment_BoilerPlateCode/LINQ_Assignment_BoilerPlateCode/obj/Debug/net10.0/LINQ_Assignment_BoilerPlateCode.genruntimeconfig.cache
+/run/media/csr/New Volume/asp_cg/Day19/LINQ_Assignment_BoilerPlateCode/LINQ_Assignment_BoilerPlateCode/obj/Debug/net10.0/ref/LINQ_Assignment_BoilerPlateCode.dll
